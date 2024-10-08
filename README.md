@@ -14,12 +14,12 @@
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="https://twitter.com/@r31044rao" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="@r31044rao" height="30" width="40" /></a>
 <a href="https://linkedin.com/in/rao-hammad-raza-2b0881246/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="rao-hammad-raza-2b0881246/" height="30" width="40" /></a>
-<a href="https://www.kaggle.com/raohammadraza" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/kaggle.svg" alt="rao hammad raza" height="30" width="40" /></a>
 <a href="https://www.facebook.com/profile.php?id=100077971148520" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="rao hammad raza" height="30" width="40" /></a>
-<a href="https://instagram.com/@raoraza849" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="@raoraza849" height="30" width="40" /></a>
 <a href="https://www.youtube.com/@raohammadraza7056" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="@raohammadraza7056" height="30" width="40" /></a>
+<a href="https://www.kaggle.com/raohammadraza" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/kaggle.svg" alt="rao hammad raza" height="30" width="40" /></a>
+<a href="https://instagram.com/@raoraza849" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="@raoraza849" height="30" width="40" /></a>
+<a href="https://twitter.com/@r31044rao" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="@r31044rao" height="30" width="40" /></a>
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
