@@ -7,7 +7,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=raohammadraza9443&label=Profile%20views&color=0e75b6&style=flat" alt="raohammadraza9443" /> </p>
 
-- 👨‍💻 All of my projects are available at [](https://www.linkedin.com/in/raohammadraza/details/projects/)
+- 👨‍💻 All of my projects are available at [https://www.linkedin.com/in/raohammadraza/](https://www.linkedin.com/in/raohammadraza/details/projects/)
   
 - 📫 How to reach me **raohammadraza02@gmail.com**
 
